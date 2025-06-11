@@ -16,7 +16,7 @@ I really enjoy playing music (guitar and keyboard), listening to new genres, exp
 
 [![Website](https://img.shields.io/badge/Website-josueosorio.com-0A0A0A?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://josueosorio.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josue%20Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josueosoriomx](https://www.linkedin.com/in/josue-osorio-constantino/))
-[![Email](https://img.shields.io/badge/Email-contact%40josueosorio.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josue.osorio.constantino@gmail.com)
+[![Email](https://img.shields.io/badge/Email-josue.osorio.constantino%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josue.osorio.constantino@gmail.com)
 
 ---
 
