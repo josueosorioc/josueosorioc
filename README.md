@@ -20,4 +20,4 @@ I really enjoy playing music (guitar and keyboard), listening to new genres, exp
 
 ---
 
-🚀 Always learning. Always building. Let’s create something awesome together!
+🚀 Always learning, Always building & Always enjoying!
